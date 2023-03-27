@@ -1,4 +1,4 @@
-baseURL = "https://voidforall.github.io/"
+baseURL = "https://voidforall.github.io/index/"
 title = "An Ignorant's Exploration"
 theme = "hugo-coder"
 languageCode = "en"
